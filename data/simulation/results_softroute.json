@@ -1,0 +1,23 @@
+{
+  "t=5": {
+    "kappa_optimum": 0.257,
+    "kappa_soft_uniform": 0.227,
+    "kappa_descent_field": 0.154,
+    "gap_configs_soft": 36,
+    "oracle_conductance_closes": 36,
+    "oracle_close_pct": 100.0,
+    "random_boost_closes": 18,
+    "random_close_pct": 50.0
+  },
+  "t=6": {
+    "kappa_optimum": 0.149,
+    "kappa_soft_uniform": 0.149,
+    "kappa_descent_field": 0.125,
+    "gap_configs_soft": 0,
+    "oracle_conductance_closes": 0,
+    "oracle_close_pct": null,
+    "random_boost_closes": 0,
+    "random_close_pct": null
+  },
+  "runtime_sec": 173.0
+}

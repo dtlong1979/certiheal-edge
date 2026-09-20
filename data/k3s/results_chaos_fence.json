@@ -1,0 +1,15 @@
+{
+ "duration_min": 30.5,
+ "roles": 48,
+ "avail_mean": 47.0,
+ "avail_min": 39,
+ "avail_pct_full": 79.0,
+ "node_faults": 28,
+ "cluster_faults": 18,
+ "respread_total": 76,
+ "max_fenced_A": 5,
+ "max_notready": 7,
+ "recover_events": 7,
+ "fence_events": 8,
+ "isolate_events": 8
+}

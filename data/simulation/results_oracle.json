@@ -1,0 +1,17 @@
+{
+  "t=4": {
+    "khe_ho_configs": 16,
+    "oracle_conductance_giai_duoc": 0,
+    "oracle_ty_le_khep_gap_%": 0.0,
+    "boost_ngau_nhien_giai_duoc": 3,
+    "boost_ngau_nhien_%": 18.8
+  },
+  "t=5": {
+    "khe_ho_configs": 27,
+    "oracle_conductance_giai_duoc": 0,
+    "oracle_ty_le_khep_gap_%": 0.0,
+    "boost_ngau_nhien_giai_duoc": 3,
+    "boost_ngau_nhien_%": 11.1
+  },
+  "runtime_sec": 4.4
+}

@@ -1,0 +1,282 @@
+{
+ "nrole": 42,
+ "baseline": {
+  "1": {
+   "n": 5,
+   "cov_mean": 39.0,
+   "cov_min": 39,
+   "cov_max": 39,
+   "pct": 92.9,
+   "rec_mean": 0.0,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": true
+  },
+  "2": {
+   "n": 5,
+   "cov_mean": 36.0,
+   "cov_min": 36,
+   "cov_max": 36,
+   "pct": 85.7,
+   "rec_mean": 0.0,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": true
+  },
+  "3": {
+   "n": 5,
+   "cov_mean": 33.0,
+   "cov_min": 33,
+   "cov_max": 33,
+   "pct": 78.6,
+   "rec_mean": 0.0,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": true
+  },
+  "4": {
+   "n": 5,
+   "cov_mean": 30.0,
+   "cov_min": 30,
+   "cov_max": 30,
+   "pct": 71.4,
+   "rec_mean": 0.0,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  },
+  "5": {
+   "n": 5,
+   "cov_mean": 27.0,
+   "cov_min": 27,
+   "cov_max": 27,
+   "pct": 64.3,
+   "rec_mean": 0.0,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  },
+  "6": {
+   "n": 5,
+   "cov_mean": 24.0,
+   "cov_min": 24,
+   "cov_max": 24,
+   "pct": 57.1,
+   "rec_mean": 0.0,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  }
+ },
+ "certiheal": {
+  "1": {
+   "n": 5,
+   "cov_mean": 42.0,
+   "cov_min": 42,
+   "cov_max": 42,
+   "pct": 100.0,
+   "rec_mean": 5.8,
+   "rec_sd": 0.8,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": true
+  },
+  "2": {
+   "n": 5,
+   "cov_mean": 42.0,
+   "cov_min": 42,
+   "cov_max": 42,
+   "pct": 100.0,
+   "rec_mean": 9.5,
+   "rec_sd": 1.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": true
+  },
+  "3": {
+   "n": 5,
+   "cov_mean": 42.0,
+   "cov_min": 42,
+   "cov_max": 42,
+   "pct": 100.0,
+   "rec_mean": 14.6,
+   "rec_sd": 2.3,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": true
+  },
+  "4": {
+   "n": 5,
+   "cov_mean": 38.0,
+   "cov_min": 38,
+   "cov_max": 38,
+   "pct": 90.5,
+   "rec_mean": 17.7,
+   "rec_sd": 1.6,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  },
+  "5": {
+   "n": 5,
+   "cov_mean": 34.0,
+   "cov_min": 34,
+   "cov_max": 34,
+   "pct": 81.0,
+   "rec_mean": 23.1,
+   "rec_sd": 1.6,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  },
+  "6": {
+   "n": 5,
+   "cov_mean": 30.0,
+   "cov_min": 30,
+   "cov_max": 30,
+   "pct": 71.4,
+   "rec_mean": 26.7,
+   "rec_sd": 1.9,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  }
+ },
+ "peer": {
+  "1": {
+   "n": 5,
+   "cov_mean": 42.0,
+   "cov_min": 42,
+   "cov_max": 42,
+   "pct": 100.0,
+   "rec_mean": 4.5,
+   "rec_sd": 0.8,
+   "dup_mean": 2.8,
+   "dup_max": 3,
+   "dup_total": 14,
+   "feasible": true
+  },
+  "2": {
+   "n": 5,
+   "cov_mean": 41.4,
+   "cov_min": 39,
+   "cov_max": 42,
+   "pct": 98.6,
+   "rec_mean": 9.0,
+   "rec_sd": 1.0,
+   "dup_mean": 2.0,
+   "dup_max": 2,
+   "dup_total": 10,
+   "feasible": true
+  },
+  "3": {
+   "n": 5,
+   "cov_mean": 40.6,
+   "cov_min": 35,
+   "cov_max": 42,
+   "pct": 96.7,
+   "rec_mean": 12.7,
+   "rec_sd": 0.8,
+   "dup_mean": 0.4,
+   "dup_max": 2,
+   "dup_total": 2,
+   "feasible": true
+  },
+  "4": {
+   "n": 5,
+   "cov_mean": 36.8,
+   "cov_min": 35,
+   "cov_max": 38,
+   "pct": 87.6,
+   "rec_mean": 16.8,
+   "rec_sd": 0.8,
+   "dup_mean": 0.6,
+   "dup_max": 2,
+   "dup_total": 3,
+   "feasible": false
+  },
+  "5": {
+   "n": 5,
+   "cov_mean": 33.0,
+   "cov_min": 31,
+   "cov_max": 34,
+   "pct": 78.6,
+   "rec_mean": 20.5,
+   "rec_sd": 0.1,
+   "dup_mean": 0.6,
+   "dup_max": 2,
+   "dup_total": 3,
+   "feasible": false
+  },
+  "6": {
+   "n": 5,
+   "cov_mean": 30.0,
+   "cov_min": 30,
+   "cov_max": 30,
+   "pct": 71.4,
+   "rec_mean": 24.6,
+   "rec_sd": 0.0,
+   "dup_mean": 0.0,
+   "dup_max": 0,
+   "dup_total": 0,
+   "feasible": false
+  }
+ },
+ "confusion": {
+  "TP": 15,
+  "FP": 0,
+  "TN": 15,
+  "FN": 0
+ },
+ "false_safe_rate": 0.0,
+ "dup_total": {
+  "certiheal": 0,
+  "peer": 32,
+  "ckill": 0
+ },
+ "cov_tie": false,
+ "coordinator_kill": {
+  "n": 10,
+  "full_recovery": 10,
+  "dup_total": 0,
+  "feasible_full": 10,
+  "feasible_n": 10,
+  "by_k": {
+   "1": {
+    "pct": 100.0,
+    "dup_total": 0,
+    "n": 5
+   },
+   "2": {
+    "pct": 100.0,
+    "dup_total": 0,
+    "n": 5
+   }
+  }
+ },
+ "seeds": [
+  101,
+  102,
+  103,
+  104,
+  105
+ ]
+}

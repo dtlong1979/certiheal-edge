@@ -1,0 +1,14 @@
+{
+  "n": 64,
+  "K": 3,
+  "episodes": 300,
+  "kappa": {
+    "rl": 0.8,
+    "uni": 0.95,
+    "oracle": 0.95,
+    "opt": 0.95
+  },
+  "rl_gap_closed_pct": null,
+  "oracle_gap_closed_pct": null,
+  "runtime_sec": 8.1
+}

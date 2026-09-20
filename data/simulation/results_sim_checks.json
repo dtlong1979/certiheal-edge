@@ -1,0 +1,31 @@
+{
+ "shadow": {
+  "trials": 500,
+  "fout_ge_f0_pct": 100.0,
+  "learned_helps_pct": 2.8,
+  "nominal_saves_pct": 14.6,
+  "mean_gap_fout_to_C": 0.1,
+  "note": "chay 2 nhanh = 2 lan giai truong; f_out>=f0 dung theo cau truc"
+ },
+ "capacity_grid": {
+  "uniform": 4.25,
+  "nonuniform_node": 4.25,
+  "nonuniform_demand": 6.18,
+  "link_bottleneck": 4.25
+ },
+ "capacity_bridge": {
+  "k_demand": 6,
+  "link_bottleneck": {
+   "2": 2,
+   "4": 4,
+   "6": 6,
+   "8": 6
+  },
+  "node_bottleneck": {
+   "2": 2,
+   "4": 4,
+   "6": 6,
+   "8": 6
+  }
+ }
+}

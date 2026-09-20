@@ -1,0 +1,16 @@
+{
+  "n": 200,
+  "K": 3,
+  "episodes": 15000,
+  "kappa": {
+    "rl_greedy": 0.44,
+    "rl_bestK": 0.46,
+    "uni": 0.52,
+    "oracle": 0.56,
+    "opt": 0.57
+  },
+  "rl_bestK_gap_closed_pct": -120.0,
+  "rl_greedy_gap_closed_pct": -160.0,
+  "oracle_gap_closed_pct": 80.0,
+  "runtime_sec": 564.8
+}

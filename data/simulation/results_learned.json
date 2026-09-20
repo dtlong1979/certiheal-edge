@@ -1,0 +1,16 @@
+{
+  "n_train_edges": 53840,
+  "pos_rate": 0.105,
+  "AUC_logreg": 0.911,
+  "AUC_mlp": 0.95,
+  "best_model": "mlp",
+  "kappa": {
+    "kappa_optimum": 0.24,
+    "kappa_oracle_cond": 0.24,
+    "kappa_learned_cond": 0.213,
+    "kappa_uniform_soft": 0.193
+  },
+  "gap_closed_by_learned_pct": 42.6,
+  "gap_closed_by_oracle_pct": 100.0,
+  "runtime_sec": 39.3
+}

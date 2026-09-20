@@ -1,0 +1,34 @@
+{
+  "device": "cpu",
+  "topo": "rgg",
+  "n": 200,
+  "rows": [
+    {
+      "K_hop": 2,
+      "AUC": 0.939,
+      "kappa": {
+        "uniform": 0.325,
+        "gnn": 0.375,
+        "oracle": 0.425,
+        "optimum": 0.5
+      },
+      "gnn_gap_closed_pct": 28.6,
+      "comm_rounds": 2,
+      "params": 4481
+    },
+    {
+      "K_hop": 3,
+      "AUC": 0.947,
+      "kappa": {
+        "uniform": 0.275,
+        "gnn": 0.35,
+        "oracle": 0.475,
+        "optimum": 0.5
+      },
+      "gnn_gap_closed_pct": 33.3,
+      "comm_rounds": 3,
+      "params": 6593
+    }
+  ],
+  "runtime_sec": 307.4
+}

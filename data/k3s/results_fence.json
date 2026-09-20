@@ -1,0 +1,22 @@
+{
+ "baseline": {
+  "partition": [
+   40,
+   200
+  ],
+  "peak_duplicate": 18,
+  "duplicate_window_s": 161,
+  "duplicate_area_role_s": 2264,
+  "b_serving_in_partition": 41
+ },
+ "fenced": {
+  "partition": [
+   40,
+   203
+  ],
+  "peak_duplicate": 18,
+  "duplicate_window_s": 49,
+  "duplicate_area_role_s": 882,
+  "b_serving_in_partition": 27
+ }
+}

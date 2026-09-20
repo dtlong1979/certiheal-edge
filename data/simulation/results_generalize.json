@@ -1,0 +1,48 @@
+{
+  "rows": [
+    {
+      "n": 64,
+      "t": 4,
+      "spares": 10,
+      "kappa_naive": 0.025,
+      "kappa_soft_field": 0.912,
+      "kappa_greedy": 0.875,
+      "kappa_optimum": 0.912,
+      "field_over_naive_x": 36.5,
+      "field_to_opt_ratio": 1.0,
+      "jacobi_iters_mean": 27.6,
+      "diameter_mean": 7.5,
+      "jacobi_over_diam": 3.7
+    },
+    {
+      "n": 150,
+      "t": 9,
+      "spares": 22,
+      "kappa_naive": 0.0,
+      "kappa_soft_field": 0.562,
+      "kappa_greedy": 0.45,
+      "kappa_optimum": 0.662,
+      "field_over_naive_x": 562.5,
+      "field_to_opt_ratio": 0.849,
+      "jacobi_iters_mean": 25.7,
+      "diameter_mean": 10.0,
+      "jacobi_over_diam": 2.58
+    },
+    {
+      "n": 300,
+      "t": 18,
+      "spares": 45,
+      "kappa_naive": 0.0,
+      "kappa_soft_field": 0.263,
+      "kappa_greedy": 0.113,
+      "kappa_optimum": 0.438,
+      "field_over_naive_x": 262.5,
+      "field_to_opt_ratio": 0.6,
+      "jacobi_iters_mean": 25.4,
+      "diameter_mean": 12.9,
+      "jacobi_over_diam": 1.96
+    }
+  ],
+  "runtime_sec": 745.3,
+  "note": "P1: neu field_to_opt_ratio va jacobi_over_diam ON DINH theo n => doc-lap-kich-thuoc"
+}

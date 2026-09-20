@@ -1,0 +1,31 @@
+{
+ "episodes": 18,
+ "arms": {
+  "certonly (model slot-certificate, sum)": {
+   "TP": 3,
+   "FP": 10,
+   "TN": 5,
+   "FN": 0,
+   "declared_feasible": 13,
+   "false_safe_pct": 76.9
+  },
+  "admission (real cpu, sum)": {
+   "TP": 3,
+   "FP": 3,
+   "TN": 12,
+   "FN": 0,
+   "declared_feasible": 6,
+   "false_safe_pct": 50.0
+  },
+  "reservation (real acceptance, fail-closed)": {
+   "TP": 3,
+   "FP": 0,
+   "TN": 15,
+   "FN": 0,
+   "declared_feasible": 3,
+   "false_safe_pct": 0.0
+  }
+ },
+ "real_demand": 225.0,
+ "total_pods": 45
+}

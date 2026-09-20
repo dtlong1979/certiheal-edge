@@ -1,0 +1,15 @@
+{
+  "t": 4,
+  "TRIALS": 400,
+  "m": 10,
+  "kappa_uniform": 0.677,
+  "kappa_energy_aware": 0.685,
+  "configs_both_solved": 267,
+  "route_bottleneck_energy_uniform": 0.604,
+  "route_bottleneck_energy_aware": 0.613,
+  "spare_energy_uniform": 0.572,
+  "spare_energy_aware": 0.582,
+  "runtime_sec": 4.1,
+  "route_energy_gain": 0.009,
+  "route_energy_gain_pct_configs_better": 26.2
+}

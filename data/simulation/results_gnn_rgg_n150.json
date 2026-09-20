@@ -1,0 +1,47 @@
+{
+  "device": "cpu",
+  "topo": "rgg",
+  "n": 150,
+  "rows": [
+    {
+      "K_hop": 1,
+      "AUC": 0.901,
+      "kappa": {
+        "uniform": 0.7,
+        "gnn": 0.667,
+        "oracle": 0.767,
+        "optimum": 0.767
+      },
+      "gnn_gap_closed_pct": -49.3,
+      "comm_rounds": 1,
+      "params": 2369
+    },
+    {
+      "K_hop": 2,
+      "AUC": 0.933,
+      "kappa": {
+        "uniform": 0.667,
+        "gnn": 0.7,
+        "oracle": 0.767,
+        "optimum": 0.767
+      },
+      "gnn_gap_closed_pct": 33.0,
+      "comm_rounds": 2,
+      "params": 4481
+    },
+    {
+      "K_hop": 3,
+      "AUC": 0.939,
+      "kappa": {
+        "uniform": 0.667,
+        "gnn": 0.667,
+        "oracle": 0.733,
+        "optimum": 0.767
+      },
+      "gnn_gap_closed_pct": 0.0,
+      "comm_rounds": 3,
+      "params": 6593
+    }
+  ],
+  "runtime_sec": 177.1
+}

@@ -1,0 +1,92 @@
+{
+  "self_strand_and_cost": {
+    "t": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "field": [
+      1.0,
+      1.0,
+      0.985,
+      0.62,
+      0.165,
+      0.07,
+      0.055,
+      0.025
+    ],
+    "optimum": [
+      1.0,
+      1.0,
+      1.0,
+      0.66,
+      0.28,
+      0.105,
+      0.08,
+      0.035
+    ],
+    "greedy": [
+      1.0,
+      1.0,
+      1.0,
+      0.6,
+      0.2,
+      0.09,
+      0.055,
+      0.035
+    ],
+    "field_strand_pct": [
+      0.0,
+      0.0,
+      1.5,
+      4.0,
+      14.5,
+      33.0,
+      39.5,
+      52.0
+    ],
+    "aug_visits": [
+      51,
+      143,
+      238,
+      311,
+      334,
+      422,
+      489,
+      572
+    ],
+    "field_local_rounds": [
+      37.4,
+      34.6,
+      34.4,
+      34.5,
+      33.8,
+      32.8,
+      32.5,
+      32.1
+    ]
+  },
+  "capacitated_cert": {
+    "cap": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "cert_mean": [
+      5.09,
+      10.28,
+      15.2,
+      20.5,
+      30.3
+    ]
+  },
+  "note": "augmenting-path dat optimum; field cuc bo bam sat nhung thi thoang tu-ket; chi phi phoi hop augmenting (visits toan cuc) >> so vong cuc bo cua field",
+  "runtime_sec": 33.4
+}

@@ -1,0 +1,8 @@
+{
+ "fabric_nodes": 17,
+ "roles": 64,
+ "state_read_nodes_KB": 89.2,
+ "state_read_pods_KB": 308.8,
+ "state_read_total_KB": 398.0,
+ "note": "dau chan control-plane TAP TRUNG cho 1 quyet dinh remap tren fabric 16 nut"
+}

@@ -1,0 +1,59 @@
+{
+ "hang_min_samples": 3,
+ "arms": {
+  "certonly": {
+   "seeds": [
+    101
+   ],
+   "episodes": 2,
+   "feasible": 2,
+   "confusion": {
+    "TP": 1,
+    "FP": 1,
+    "TN": 0,
+    "FN": 0
+   },
+   "false_safe_pct": 50.0,
+   "ci95": [
+    0.0,
+    100.0
+   ]
+  },
+  "dryrun": {
+   "seeds": [
+    101
+   ],
+   "episodes": 2,
+   "feasible": 2,
+   "confusion": {
+    "TP": 1,
+    "FP": 1,
+    "TN": 0,
+    "FN": 0
+   },
+   "false_safe_pct": 50.0,
+   "ci95": [
+    0.0,
+    100.0
+   ]
+  },
+  "reservation": {
+   "seeds": [
+    101
+   ],
+   "episodes": 2,
+   "feasible": 1,
+   "confusion": {
+    "TP": 1,
+    "FP": 0,
+    "TN": 1,
+    "FN": 0
+   },
+   "false_safe_pct": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ]
+  }
+ }
+}
