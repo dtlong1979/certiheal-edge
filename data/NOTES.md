@@ -41,3 +41,4 @@ One line per file: what the measurement is and the paper location it backs. JSON
 - `results_comm_16node.json` — centralized control cost: cluster state-read bytes (nodes, pods, total KB).
 - `results_compare_16node.json` — recovery comparison on 16 nodes: fabric, k8s-default, k8s-tuned, CertiHeal.
 - `results_energy.json` — measured per-node energy over runs on the testbed.
+- `results_toctou.json` — competing-workload TOCTOU experiment for the operational admission certificate: per competitor size C, the real roles hung by the non-atomic probe (release-then-commit) versus competitors that breach a held reservation (should be 0). Produced by `code/k3s/k3s_toctou.py`.

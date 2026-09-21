@@ -1,0 +1,104 @@
+{
+ "pod_cpu": 8,
+ "n_real": 47,
+ "slice_cpu": 384.0,
+ "edge_nodes": 12,
+ "settle": 45,
+ "cvals": [
+  0,
+  4,
+  8,
+  12
+ ],
+ "trials": 2,
+ "episodes": [
+  {
+   "C": 0,
+   "trial": 0,
+   "probe_feasible": true,
+   "nonatomic_real_running": 47,
+   "nonatomic_real_hang": 0,
+   "nonatomic_compete_running": 0,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 0
+  },
+  {
+   "C": 0,
+   "trial": 1,
+   "probe_feasible": true,
+   "nonatomic_real_running": 47,
+   "nonatomic_real_hang": 0,
+   "nonatomic_compete_running": 0,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 0
+  },
+  {
+   "C": 4,
+   "trial": 0,
+   "probe_feasible": true,
+   "nonatomic_real_running": 43,
+   "nonatomic_real_hang": 4,
+   "nonatomic_compete_running": 4,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 4
+  },
+  {
+   "C": 4,
+   "trial": 1,
+   "probe_feasible": true,
+   "nonatomic_real_running": 43,
+   "nonatomic_real_hang": 4,
+   "nonatomic_compete_running": 4,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 4
+  },
+  {
+   "C": 8,
+   "trial": 0,
+   "probe_feasible": true,
+   "nonatomic_real_running": 39,
+   "nonatomic_real_hang": 8,
+   "nonatomic_compete_running": 8,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 8
+  },
+  {
+   "C": 8,
+   "trial": 1,
+   "probe_feasible": true,
+   "nonatomic_real_running": 39,
+   "nonatomic_real_hang": 8,
+   "nonatomic_compete_running": 8,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 8
+  },
+  {
+   "C": 12,
+   "trial": 0,
+   "probe_feasible": true,
+   "nonatomic_real_running": 35,
+   "nonatomic_real_hang": 12,
+   "nonatomic_compete_running": 12,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 12
+  },
+  {
+   "C": 12,
+   "trial": 1,
+   "probe_feasible": true,
+   "nonatomic_real_running": 35,
+   "nonatomic_real_hang": 12,
+   "nonatomic_compete_running": 12,
+   "held_reservation_ok": true,
+   "held_compete_leaked": 0,
+   "held_compete_pending": 12
+  }
+ ]
+}
