@@ -5,6 +5,7 @@ Proofs, configuration, code, and measured data for the CertiHeal-Edge paper.
 | Resource | Contents |
 |---|---|
 | `PROOFS.md` / `PROOFS.pdf` | Full proofs of the theorems and lemmas (Markdown source and typeset PDF). |
+| `formal/` | TLA+ specification and TLC model-check of the reservation protocol (Proposition 1). |
 | `supplement/` | Descriptions of the supplementary experiments (learning head, RUL migration). |
 | `config/` | Hyperparameter tables (`hyperparameters.md`) and workload/fabric configuration (`roles.yaml`, `roles_hetero.yaml`, `fabric_cfg.json`). |
 | `code/` | Scripts that produced the data: `simulation/`, `fabric/`, `k3s/`. |
